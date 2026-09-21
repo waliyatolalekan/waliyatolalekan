@@ -4,7 +4,7 @@ Cybersecurity Analyst | Web Application Security & Digital Forensics
 I am a cybersecurity enthusiast with hands‐on experience building and documenting security focused web applications and web forensics lab to simulate attacks and identify indicators of compromise. I am skilled in Linux environment, analyzing threat domains and practice identifying security focused insights. I am passionate about threat detection, secure coding, and growing into a SOC Analyst role. 
 
 Portfolio Site:https://waliyatolalekan.github.io/
-Contact: walzlekan@gmail.com
+Contact: waliyatolalekan01@gmail.com
 LinkedIn: www.linkedin.com/in/waliyat-olalekan-2097422b6
 
 **Technical Skillset**
