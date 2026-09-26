@@ -1,18 +1,19 @@
 Hi, I am Waliyat Olalekan
-Cybersecurity Analyst | Web Application Security & Digital Forensics
+Application Security (AI/LLM Security) | Web Application security & Digital Forensics
 
-I am a cybersecurity enthusiast with hands‐on experience building and documenting security focused web applications and web forensics lab to simulate attacks and identify indicators of compromise. I am skilled in Linux environment, analyzing threat domains and practice identifying security focused insights. I am passionate about threat detection, secure coding, and growing into a SOC Analyst role. 
+I am a Cybersecurity Enthusiast transitioning deep into Application Security (AppSec) and AI/LLM Security.
+
+My background spans web application security, penetration testing, and digital forensics -from analyzing web traffic and server logs to identifying OWASP Top 10 vulnerabilities. As software architectures rapidly evolve to integrate AI APIs and automated workflows, my focus is on securing the modern software stack: building secure web applications, evaluating (Large Language Model) LLM  interfaces against prompt injection and output handling flaws, and automating security tasks using Python.
 
 Portfolio Site:https://waliyatolalekan.github.io/
 Contact: waliyatolalekan01@gmail.com
 LinkedIn: www.linkedin.com/in/waliyat-olalekan-2097422b6
 
-**Technical Skillset**
-Offensive Security: Web Application Pentesting, OWASP Top 10, SQL Injection, Cross-Site Scripting (XSS)
-Defensive Security: SIEM Monitoring, Traffic Analysis, Firewalls (pfSense)
-Languages & Tools: Python (requests), Bash, Kali Linux, Nmap, sqlmap, Burp Suite, Git
+Technical Skillset
+Offensive Security: Web Application Pentesting, OWASP Top 10, SQL Injection, Cross-Si
+Languages & Tools: Kali Linux, Nmap, sqlmap, Burp Suite, Git
 
-**Featured Projects**
+Projects
 Webapp Pentest Methodology: This project demonstrates a structured methodology for conducting authorized web application penetration testing using an OWASP Juice Shop lab environment. It combines hands-on security testing techniques including reconnaissance, JWT analysis, authorization (IDOR) assessment, and TTP security header evaluation with custom Python tools for security header scanning, directory enumeration and input reflection checking.
 
 Webapp-forensics-lab
